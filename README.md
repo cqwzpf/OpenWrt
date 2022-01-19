@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>&nbsp;X86、R2S、R4S软路由插件预览</b></summary>
+<summary><b>&nbsp;X86、R2C、R2S、R4S插件预览</b></summary>
 <br/>
 <details>
 <summary><b>├── 状态</b></summary>
